@@ -1,1 +1,1 @@
-# blog-app
+# Stellar: Weblog Application
